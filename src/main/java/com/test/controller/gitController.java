@@ -6,6 +6,7 @@ public class gitController {
 		System.out.println("bang bang bang");
 		System.out.println("da da da");
 		System.out.println("hot---------1");
+		System.out.println("cold--------1");
 	}
 	
 }
